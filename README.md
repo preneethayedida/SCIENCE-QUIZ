@@ -36,7 +36,7 @@ It combines learning with elegant design, live data, and smooth interactivity �
 
 ## 🌐 Live Demo & Source Code
 
-- 🔗 **Live Website:** [science-quiz-by-preneetha.glitch.me](https://science-quiz-by-preneetha.glitch.me)  
+- 🔗 **Live Website:** ([https://science-quiz-by-preneetha.glitch.me](https://preneethayedida.github.io/SCIENCE-QUIZ/))  
 - 📂 **GitHub Repository:** [GitHub] https://github.com/preneethayedida/SCIENCE-QUIZ.git
 
 ---
